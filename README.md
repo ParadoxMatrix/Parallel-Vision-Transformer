@@ -87,5 +87,5 @@ While detecting deepfakes is essential for online safety, ethical considerations
 
 ---
 
-## 📁 File Structure
+
 
